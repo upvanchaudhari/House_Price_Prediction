@@ -8,5 +8,5 @@ All dependencies are listed in the `requirements.txt` file, but here’s a break
 3️⃣ **scikit-learn** – For training the machine learning model  
 4️⃣ **joblib** – For saving and loading trained models  
 5️⃣ **streamlit** – For creating the web interface  
-6️⃣ **matplotlib** – For data visualization 
+6️⃣ **matplotlib** – For data visualization     
 7️⃣ **seaborn** – For enhanced data visualization 
